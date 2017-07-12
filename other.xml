@@ -1,0 +1,14 @@
+<application>
+  <component name="GlobalAntConfiguration">
+    <registeredAnts>
+      <ant>
+        <classpath>
+          <classpathItem dir="file:///Clients/Entegris/hybris/bin/platform/apache-ant-1.9.1/lib" />
+        </classpath>
+        <homeDir value="/Clients/Entegris/hybris/bin/platform/apache-ant-1.9.1" />
+        <name value="Apache Ant version 1.9.1" />
+        <version value="1.9.1" />
+      </ant>
+    </registeredAnts>
+  </component>
+</application>
