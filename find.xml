@@ -3,13 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.jav</mask>
-      <mask>**.xml</mask>
-      <mask>*e*.xml</mask>
-      <mask>*en*.xml</mask>
-      <mask>*ente*.xml</mask>
       <mask>*entegr*.xml</mask>
       <mask>*entegri*.xml</mask>
       <mask>*entegris*.xml</mask>
@@ -29,12 +23,17 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*</mask>
-      <mask>*.xml</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jxml</mask>
+      <mask>*.jxm</mask>
+      <mask>*.jx</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
