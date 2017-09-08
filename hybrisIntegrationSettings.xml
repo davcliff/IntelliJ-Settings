@@ -5,6 +5,7 @@
       <set>
         <option value="IMPORT_PROJECT" />
         <option value="OPEN_PROJECT" />
+        <option value="IMPEX_TABLE_FORMAT" />
       </set>
     </option>
   </component>
