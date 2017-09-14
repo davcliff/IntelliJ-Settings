@@ -5,17 +5,13 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tag" />
     <recentFileMasks>
-      <mask>.jsp</mask>
-      <mask>.js</mask>
       <mask>.j</mask>
       <mask>.</mask>
       <mask>.t</mask>
       <mask>.ta</mask>
       <mask>.tag</mask>
-      <mask>*.jsp</mask>
-      <mask>*.tag</mask>
-      <mask>*.ta</mask>
       <mask>*.t</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
@@ -28,14 +24,19 @@
       <mask>*.jxml</mask>
       <mask>*.jxm</mask>
       <mask>*.jx</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.imp</mask>
-      <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.impe</mask>
+      <mask>*.imp</mask>
+      <mask>*.im</mask>
+      <mask>*.i</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
+      <mask>*.ta</mask>
+      <mask>*.tag</mask>
     </recentFileMasks>
   </component>
 </application>
