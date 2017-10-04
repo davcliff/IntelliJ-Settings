@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>.</mask>
       <mask>.t</mask>
@@ -16,7 +17,6 @@
       <mask>*.h</mask>
       <mask>*</mask>
       <mask>*.js</mask>
-      <mask>*.ja</mask>
       <mask>*.jxml</mask>
       <mask>*.jxm</mask>
       <mask>*.jx</mask>
@@ -30,12 +30,13 @@
       <mask>*.tag</mask>
       <mask>*.ta</mask>
       <mask>*.t</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
