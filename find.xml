@@ -5,15 +5,11 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*.t</mask>
       <mask>*.tag</mask>
       <mask>*en.java</mask>
@@ -37,6 +33,10 @@
       <mask>*.im</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
