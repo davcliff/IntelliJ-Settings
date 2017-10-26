@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
       <mask>*.t</mask>
@@ -21,21 +21,22 @@
       <mask>*entegris*.java</mask>
       <mask>*x</mask>
       <mask>*xml</mask>
-      <mask>*.xml</mask>
       <mask>*.xj</mask>
-      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.im</mask>
-      <mask>*.impe</mask>
-      <mask>*.impex</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.properties</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.im</mask>
+      <mask>*.imp</mask>
+      <mask>*.impe</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
