@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
@@ -32,11 +32,11 @@
       <mask>*.prop</mask>
       <mask>*.properties</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
