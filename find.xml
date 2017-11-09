@@ -7,10 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.tag</mask>
-      <mask>*en.java</mask>
-      <mask>*ent.java</mask>
       <mask>*ente.java</mask>
       <mask>*enteg.java</mask>
       <mask>*entegr.java</mask>
@@ -20,11 +18,7 @@
       <mask>*x</mask>
       <mask>*xml</mask>
       <mask>*.xj</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
@@ -38,6 +32,13 @@
       <mask>*.properties</mask>
       <mask>*en.properties</mask>
       <mask>*en*.properties</mask>
+      <mask>*en</mask>
+      <mask>*e</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
