@@ -6,6 +6,7 @@
         <option value="IMPORT_PROJECT" />
         <option value="REFRESH_PROJECT" />
         <option value="OPEN_PROJECT" />
+        <option value="ANT" />
         <option value="IMPEX_TABLE_FORMAT" />
       </set>
     </option>
