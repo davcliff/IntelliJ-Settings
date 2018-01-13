@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.xj</mask>
-      <mask>*.ja</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
@@ -25,8 +24,6 @@
       <mask>*en*.properties</mask>
       <mask>*en</mask>
       <mask>*e</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
@@ -38,6 +35,10 @@
       <mask>*Costc.java</mask>
       <mask>*Costco.java</mask>
       <mask>*Costco*.java</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
