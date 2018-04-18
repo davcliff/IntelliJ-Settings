@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*entegris*.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.propertiesxml</mask>
       <mask>*.properties</mask>
@@ -30,13 +30,13 @@
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.java</mask>
       <mask>*ent.java</mask>
       <mask>*ent*.java</mask>
       <mask>*ente*.java</mask>
       <mask>*enteg*.java</mask>
       <mask>*entegri*.java</mask>
       <mask>*entegris*.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
