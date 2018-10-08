@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*C.java</mask>
       <mask>*Co.java</mask>
@@ -15,7 +16,6 @@
       <mask>*Costco.java</mask>
       <mask>*Costco*.java</mask>
       <mask>.</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.tag</mask>
       <mask>*.ta</mask>
@@ -27,15 +27,16 @@
       <mask>*entegri*.java</mask>
       <mask>*entegris*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
-      <mask>*.j</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
