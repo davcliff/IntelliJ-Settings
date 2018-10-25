@@ -5,11 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*ntegris*.xml" />
+    <option name="FILE_MASK" value="*ntegris*.java" />
     <recentFileMasks>
-      <mask>*ent*.java</mask>
-      <mask>*ente*.java</mask>
-      <mask>*enteg*.java</mask>
       <mask>*entegri*.java</mask>
       <mask>*entegris*.java</mask>
       <mask>*.xml</mask>
@@ -37,6 +34,9 @@
       <mask>*ntegris*.xml.impex</mask>
       <mask>*ntegris*.xml.</mask>
       <mask>*ntegris*.xml</mask>
+      <mask>*ntegris*.j</mask>
+      <mask>*ntegris*.jav</mask>
+      <mask>*ntegris*.java</mask>
     </recentFileMasks>
   </component>
 </application>
