@@ -5,16 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*Ente.impex</mask>
-      <mask>*Entegr.impex</mask>
-      <mask>*Entegri.impex</mask>
-      <mask>*Entegris.impex</mask>
-      <mask>*Entegris*.impex</mask>
-      <mask>*Entegris*..impex</mask>
-      <mask>*Entegris*.x.impex</mask>
-      <mask>*Entegris*.xml.impex</mask>
-      <mask>*ntegris*.xml.impex</mask>
       <mask>*ntegris*.xml.</mask>
       <mask>*ntegris*.xml</mask>
       <mask>*ntegris*.j</mask>
@@ -25,7 +17,6 @@
       <mask>*.propert</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
@@ -36,6 +27,16 @@
       <mask>*.imp</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.*</mask>
+      <mask>*.*.</mask>
+      <mask>*.*.p</mask>
+      <mask>*.*.prop</mask>
+      <mask>*.*.prope</mask>
+      <mask>*.*.proper</mask>
+      <mask>*.*.propert</mask>
+      <mask>*.*.properties</mask>
+      <mask>**.properties</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
