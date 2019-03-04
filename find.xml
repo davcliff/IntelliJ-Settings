@@ -5,18 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.*.</mask>
-      <mask>*.*.p</mask>
-      <mask>*.*.prop</mask>
-      <mask>*.*.prope</mask>
-      <mask>*.*.proper</mask>
-      <mask>*.*.propert</mask>
-      <mask>*.*.properties</mask>
-      <mask>**.properties</mask>
-      <mask>*.J</mask>
-      <mask>*.Jav</mask>
-      <mask>*.Java</mask>
       <mask>*.properties</mask>
       <mask>*.propertie</mask>
       <mask>*.properti</mask>
@@ -27,15 +17,26 @@
       <mask>*.pro</mask>
       <mask>*.pr</mask>
       <mask>*.p</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*j.java</mask>
+      <mask>*job.java</mask>
+      <mask>*job*.java</mask>
+      <mask>*ob*.java</mask>
+      <mask>*Job*.java</mask>
+      <mask>*Job.java</mask>
+      <mask>*Jo.java</mask>
+      <mask>*J.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
